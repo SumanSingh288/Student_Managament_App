@@ -1,0 +1,226 @@
+[
+    {
+        "id": 101,
+        "name": "Rahul Sharma",
+        "age": 20,
+        "subject": "Python",
+        "marks": 85
+    },
+    {
+        "id": 102,
+        "name": "Priya Patel",
+        "age": 21,
+        "subject": "Java",
+        "marks": 91
+    },
+    {
+        "id": 103,
+        "name": "Arjun Kumar",
+        "age": 19,
+        "subject": "DBMS",
+        "marks": 78
+    },
+    {
+        "id": 104,
+        "name": "Sneha Reddy",
+        "age": 20,
+        "subject": "Python",
+        "marks": 89
+    },
+    {
+        "id": 105,
+        "name": "Vikram Singh",
+        "age": 22,
+        "subject": "Java",
+        "marks": 82
+    },
+    {
+        "id": 106,
+        "name": "Neha Gupta",
+        "age": 20,
+        "subject": "C++",
+        "marks": 88
+    },
+    {
+        "id": 107,
+        "name": "Rohan Das",
+        "age": 21,
+        "subject": "Python",
+        "marks": 74
+    },
+    {
+        "id": 108,
+        "name": "Anjali Verma",
+        "age": 20,
+        "subject": "DBMS",
+        "marks": 95
+    },
+    {
+        "id": 109,
+        "name": "Karan Mehta",
+        "age": 22,
+        "subject": "Java",
+        "marks": 80
+    },
+    {
+        "id": 110,
+        "name": "Divya Nair",
+        "age": 19,
+        "subject": "Python",
+        "marks": 92
+    },
+    {
+        "id": 111,
+        "name": "Aman Yadav",
+        "age": 21,
+        "subject": "C",
+        "marks": 77
+    },
+    {
+        "id": 112,
+        "name": "Pooja Rao",
+        "age": 20,
+        "subject": "Java",
+        "marks": 84
+    },
+    {
+        "id": 113,
+        "name": "Harsh Jain",
+        "age": 22,
+        "subject": "DBMS",
+        "marks": 73
+    },
+    {
+        "id": 114,
+        "name": "Meera Kapoor",
+        "age": 19,
+        "subject": "Python",
+        "marks": 97
+    },
+    {
+        "id": 115,
+        "name": "Nikhil Roy",
+        "age": 21,
+        "subject": "Java",
+        "marks": 86
+    },
+    {
+        "id": 116,
+        "name": "Isha Sharma",
+        "age": 20,
+        "subject": "C++",
+        "marks": 90
+    },
+    {
+        "id": 117,
+        "name": "Yash Patel",
+        "age": 22,
+        "subject": "Python",
+        "marks": 79
+    },
+    {
+        "id": 118,
+        "name": "Ritika Sen",
+        "age": 19,
+        "subject": "DBMS",
+        "marks": 88
+    },
+    {
+        "id": 119,
+        "name": "Akash Gupta",
+        "age": 20,
+        "subject": "Java",
+        "marks": 76
+    },
+    {
+        "id": 120,
+        "name": "Sanya Mishra",
+        "age": 21,
+        "subject": "Python",
+        "marks": 94
+    },
+    {
+        "id": 121,
+        "name": "Deepak Verma",
+        "age": 22,
+        "subject": "C",
+        "marks": 71
+    },
+    {
+        "id": 122,
+        "name": "Aditi Sharma",
+        "age": 20,
+        "subject": "Java",
+        "marks": 93
+    },
+    {
+        "id": 123,
+        "name": "Manish Kumar",
+        "age": 21,
+        "subject": "Python",
+        "marks": 81
+    },
+    {
+        "id": 124,
+        "name": "Tanvi Joshi",
+        "age": 19,
+        "subject": "DBMS",
+        "marks": 87
+    },
+    {
+        "id": 125,
+        "name": "Suresh Rao",
+        "age": 22,
+        "subject": "Java",
+        "marks": 75
+    },
+    {
+        "id": 126,
+        "name": "Nandini Reddy",
+        "age": 20,
+        "subject": "Python",
+        "marks": 96
+    },
+    {
+        "id": 127,
+        "name": "Rakesh Singh",
+        "age": 21,
+        "subject": "C++",
+        "marks": 83
+    },
+    {
+        "id": 128,
+        "name": "Kavya Patel",
+        "age": 19,
+        "subject": "Java",
+        "marks": 89
+    },
+    {
+        "id": 129,
+        "name": "Varun Gupta",
+        "age": 22,
+        "subject": "Python",
+        "marks": 72
+    },
+    {
+        "id": 130,
+        "name": "Shreya Nair",
+        "age": 20,
+        "subject": "DBMS",
+        "marks": 98
+    },
+    {
+        "id": 131,
+        "name": "Kishore",
+        "age": 22,
+        "subject": "java",
+        "marks": 99
+    },
+    {
+        "id": 132,
+        "name": "bharath",
+        "age": 23,
+        "subject": "maths",
+        "marks": 97
+    }
+]
